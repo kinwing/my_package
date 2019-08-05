@@ -6,7 +6,7 @@
  * Time: 23:05
  */
 
-namespace flower\Rose;
+namespace flower\rose;
 
 class Rose
 {
